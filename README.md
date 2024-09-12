@@ -19,11 +19,11 @@
 
 The primary objectives of this project are:
 
-    - 1) Content Distribution Analysis: To determine the number of movies and TV shows available, and to identify the most common ratings for each type of content.
-    - 2) Release Trends: To list content released in specific years, find the top countries with the most content, and analyze content added in the last five years.
-    - 3) Content Characteristics: To identify the longest movie, find all movies/TV shows by a specific director, and list TV shows with more than five seasons.
-    - 4) Genre and Actor Analysis: To count the number of content items in each genre, find movies with a specific actor, and identify top actors appearing in Indian movies.
-    - 5) Content Categorization: To categorize content based on keywords in descriptions and count the number of items in each category.
+     1) Content Distribution Analysis: To determine the number of movies and TV shows available, and to identify the most common ratings for each type of content.
+     2) Release Trends: To list content released in specific years, find the top countries with the most content, and analyze content added in the last five years.
+     3) Content Characteristics: To identify the longest movie, find all movies/TV shows by a specific director, and list TV shows with more than five seasons.
+     4) Genre and Actor Analysis: To count the number of content items in each genre, find movies with a specific actor, and identify top actors appearing in Indian movies.
+     5) Content Categorization: To categorize content based on keywords in descriptions and count the number of items in each category.
 
 <h3>  Schema </h3>
 
