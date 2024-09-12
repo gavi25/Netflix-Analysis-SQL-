@@ -54,3 +54,9 @@ CREATE TABLE netflix
  - Common Ratings: Insights into the most common ratings provide an understanding of the content's target audience.
  - Geographical Insights: The top countries and the average content releases by India highlight regional content distribution.
  - Content Categorization: Categorizing content based on specific keywords helps in understanding the nature of content available on Netflix.
+
+This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
+
+<h3> Contributions </h3>
+
+Contributions are welcome! Please fork this repository and submit a pull request with your changes.
